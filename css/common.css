@@ -41,3 +41,8 @@ button {
   display: block;
   max-width: 100%;
 }
+
+.task2 {
+  
+  list-style: none;
+}
