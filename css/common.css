@@ -13,6 +13,8 @@ body {
   line-height: 1.5;
 }
 
+
+
 input {
   padding: 8px;
   font: inherit;
@@ -45,4 +47,18 @@ button {
 .task2 {
   
   list-style: none;
+}
+
+.task3 {
+  padding-bottom: 1%;
+  text-decoration: none;
+}
+
+a.task4 {
+  text-decoration: none;
+  
+}
+
+a.task4:hover {
+  color: black;
 }
